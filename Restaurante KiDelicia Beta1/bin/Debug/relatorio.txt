@@ -1,0 +1,31 @@
+Data: 23/06/2023 11:26:24
+Itens vendidos:
+1x - Self-service c/ churrasco R$ 26,00 = R$ 26,00
+1x - Marmitex P tradicional R$ 12,00 = R$ 12,00
+1x - Marmitex G c/ churrasco R$ 20,00 = R$ 20,00
+1x - Refrigerante Lata R$ 5,00 = R$ 5,00
+Valor final: R$ 63,00
+Método de pagamento: PIX
+----------
+Data: 24/06/2023 20:26:44
+Itens vendidos:
+2x - Self-service c/ carne e churrasco R$ 24,00 = R$ 48,00
+1x - Self-service R$ 20,00 = R$ 20,00
+Valor final: R$ 68,00
+Método de pagamento: DINHEIRO
+----------
+Data: 24/06/2023 21:02:28
+Itens vendidos:
+1x - Self-service c/ carne e churrasco R$ 24,00 = R$ 24,00
+1x - Self-service R$ 20,00 = R$ 20,00
+Valor final: R$ 44,00
+Método de pagamento: DINHEIRO
+----------
+Data: 24/06/2023 21:04:14
+Itens vendidos:
+1x - Self-service c/ carne e churrasco R$ 24,00 = R$ 24,00
+1x - Self-service c/ churrasco R$ 26,00 = R$ 26,00
+1x - Refrigerante Lata R$ 5,00 = R$ 5,00
+Valor final: R$ 55,00
+Método de pagamento: DINHEIRO
+----------
